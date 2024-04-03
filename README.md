@@ -35,7 +35,7 @@ iExpense is an iOS app developed using SwiftUI and SwiftData that helps users tr
 
 - **Dark Theme Support:** The app supports a dark theme, providing users with the option to switch between light and dark modes based on their preferences.
 
-  
+   <img src="https://github.com/ashwin-kumar-k/iExpense/assets/44889005/c8c09a94-307f-44e8-ac28-34f994d9b6e7" width="300">
    <img src="https://github.com/ashwin-kumar-k/iExpense/assets/44889005/e1e9e959-4a65-4e1c-86e7-2d0d42f75928" width="300">
    <img src="https://github.com/ashwin-kumar-k/iExpense/assets/44889005/5d492df1-4cc8-4aab-afbd-fb73412469c9" width="300">
    <img src="https://github.com/ashwin-kumar-k/iExpense/assets/44889005/41483b51-5bd0-46bb-b9ec-c453a55a9b46" width="300">
