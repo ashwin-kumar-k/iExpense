@@ -23,16 +23,14 @@ iExpense is an iOS app developed using SwiftUI and SwiftData that helps users tr
    <img src="https://github.com/ashwin-kumar-k/iExpense/assets/44889005/668350cd-ef29-4526-9d87-0829662fcc48" width="300">
    <img src="https://github.com/ashwin-kumar-k/iExpense/assets/44889005/7e5f6073-846d-449b-9a1c-cfdf0be054e2" width="300">
 
-- **Tab Navigation:** The app uses a tab-based navigation system to provide easy access to different features such as recent transactions, search functionality, charts, and settings.
-
-
-  <img src="https://github.com/ashwin-kumar-k/iExpense/assets/44889005/54007508-2d74-45db-8fa9-fda87e79b69c" width="300">
-  <img src="https://github.com/ashwin-kumar-k/iExpense/assets/44889005/0aed8da3-c2dc-4588-a0a9-ec9028243c29" width="300">
 
 - **User-Friendly Interface:** iExpense features a user-friendly interface with intuitive design and interactive elements, ensuring a seamless user experience. It utilizes Neumorphism, a modern and sleek UI design technique, to enhance visual appeal.
 
-
 <img src="https://github.com/ashwin-kumar-k/iExpense/assets/44889005/39e7cddf-97ed-4cfe-a932-708ce0226bca" width="300">
+<img src="https://github.com/ashwin-kumar-k/iExpense/assets/44889005/54007508-2d74-45db-8fa9-fda87e79b69c" width="300">
+<img src="https://github.com/ashwin-kumar-k/iExpense/assets/44889005/0aed8da3-c2dc-4588-a0a9-ec9028243c29" width="300">
+
+- **Tab Navigation:** The app uses a tab-based navigation system to provide easy access to different features such as recent transactions, search functionality, charts, and settings.
 
 ## Development
 The app is developed using SwiftUI, a modern framework for building user interfaces across all Apple platforms. It leverages SwiftUI's declarative syntax, which simplifies the process of building complex UI components and ensures a consistent user experience across devices.
