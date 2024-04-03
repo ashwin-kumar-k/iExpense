@@ -33,6 +33,15 @@ iExpense is an iOS app developed using SwiftUI and SwiftData that helps users tr
 
 - **Tab Navigation:** The app uses a tab-based navigation system to provide easy access to different features such as recent transactions, search functionality, charts, and settings.
 
+- **Dark Theme Support:** The app supports a dark theme, providing users with the option to switch between light and dark modes based on their preferences.
+
+  
+   <img src="https://github.com/ashwin-kumar-k/iExpense/assets/44889005/e1e9e959-4a65-4e1c-86e7-2d0d42f75928" width="300">
+   <img src="https://github.com/ashwin-kumar-k/iExpense/assets/44889005/5d492df1-4cc8-4aab-afbd-fb73412469c9" width="300">
+   <img src="https://github.com/ashwin-kumar-k/iExpense/assets/44889005/41483b51-5bd0-46bb-b9ec-c453a55a9b46" width="300">
+   <img src="https://github.com/ashwin-kumar-k/iExpense/assets/44889005/2381c609-c394-4f6b-b3f0-a7b881f6f03d" width="300">
+   <img src="https://github.com/ashwin-kumar-k/iExpense/assets/44889005/ef2f35d6-9560-4a6e-a776-e7adda1c7c24" width="300">
+
 ## Development
 The app is developed using SwiftUI, a modern framework for building user interfaces across all Apple platforms. It leverages SwiftUI's declarative syntax, which simplifies the process of building complex UI components and ensures a consistent user experience across devices.
 
