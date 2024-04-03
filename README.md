@@ -5,7 +5,7 @@ iExpense is an iOS app developed using SwiftUI and SwiftData that helps users tr
 
 ## Features
 - **Transaction Tracking:** Users can record their expenses and income by adding transactions with details such as title, remarks, amount, date, and category.
-  <img src="[https://your-image-url.type](https://github.com/ashwin-kumar-k/iExpense/assets/44889005/dd2ee7a6-117b-4b20-9f62-9ee6f0e3ecf4)" width="100">
+  <img src="https://github.com/ashwin-kumar-k/iExpense/assets/44889005/dd2ee7a6-117b-4b20-9f62-9ee6f0e3ecf4" width="100">
 
 - **Visual Charts:** The app provides visual representation of transactions using eye-catching charts, allowing users to analyze their spending patterns over time.
   ![Simulator Screenshot - iPhone 15 Pro - 2024-04-03 at 13 44 42](https://github.com/ashwin-kumar-k/iExpense/assets/44889005/81730677-b39f-4436-8981-e03538e783bc)
